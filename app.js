@@ -1,4 +1,4 @@
-let gameSeq = [];
+let gameSeq = []
 let userSeq = []
 let highScore = []
 let btns = ["yellow", "red", "green", "purple"]
