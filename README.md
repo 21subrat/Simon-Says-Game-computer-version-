@@ -1,0 +1,1 @@
+# Simon Says is a memory game with four colored buttons. The computer generates a sequence by lighting up colors one at a time. The player must repeat the entire sequence in order. Each correct round adds one more color to the sequence, increasing difficulty. The game ends when the player makes a mistake, testing memory and concentration.
